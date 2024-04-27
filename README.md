@@ -9,12 +9,12 @@
 <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-3881f5" href="https://mr-creations-portfolio.netlify.app/" target="_blank" >
 
 • 🔭 I’m currently working on projects related to TypeScript.<br> 
-• 🌱 I’m currently learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> 
-• 💼 I'm part of The Governor Sindh Initiative for AI, Web3, and Metaverse,<br> where we aim to bring innovation and advancement in these domains. <br> 
-• 👨‍💻 All of my projects are available at <br> 
+• 🌱 Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> 
+• 💼 Part of The Governor Sindh Initiative for AI, Web3, and Metaverse,<br> where we aim to bring innovation and advancement in these domains. <br> 
 • 💬 Ask me about Website Development, AI, WEB 3 <br> 
-• 📫 How to reach me?  <br>mail at *abdulrehan0317@gmail.com* <br> 
+• 📫 How to reach me?  <br>mail at *abdulrehan0317@gmail.com* <be> 
 
+<br>
 <hr>
 
 <h3 align="left" > Connect with me on 🤝: </h3>
