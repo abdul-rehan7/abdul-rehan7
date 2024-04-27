@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">Website Developer | AI Learner | Student at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
 <p align="left"> <a href="https://twitter.com/mirza_rehan76" target="blank"><img src="https://img.shields.io/twitter/follow/mirza_rehan76?logo=twitter&style=for-the-badge" alt="mirza_rehan76" /></a> </p>
-- 🔭 I’m currently working on **projects related to TypeScript.**
-- 🌱 I’m currently learning **more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.**
-- 💼 I'm part of **the Governor Sindh Initiative for AI, Web3, and Metaverse, where we aim to bring innovation and advancement in these domains.**
-- 👨‍💻 All of my projects are available at [https://mr-creations-portfolio.netlify.app/](https://mr-creations-portfolio.netlify.app/)
-- 💬 Ask me about **Website Development, AI , WEB 3**
-- 📫 How to reach me **abdulrehan0317@gmail.com**
+- 🔭 I’m currently working on projects related to TypeScript.<br>
+- 🌱 I’m currently learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br>
+- 💼 I'm part of The Governor Sindh Initiative for AI, Web3, and Metaverse,<br> where we aim to bring innovation and advancement in these domains. <br>
+- 👨‍💻 All of my projects are available at https://mr-creations-portfolio.netlify.app <br>
+- 💬 Ask me about **Website Development, AI , WEB 3 <br>
+- 📫 How to reach me abdulrehan0317@gmail.com <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mirza_rehan76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirza_rehan76" height="30" width="40" /></a>
