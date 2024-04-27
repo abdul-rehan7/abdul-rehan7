@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehan</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">Website Developer | AI Learner | Student at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehanmirza76&label=Profile%20views&color=0e75b6&style=flat" alt="rehanmirza76" /> </p>
 <p align="left"> <a href="https://twitter.com/mirza_rehan76" target="blank"><img src="https://img.shields.io/twitter/follow/mirza_rehan76?logo=twitter&style=for-the-badge" alt="mirza_rehan76" /></a> </p>
 - 🔭 I’m currently working on **projects related to TypeScript.**
 - 🌱 I’m currently learning **more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.**
