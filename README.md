@@ -1,19 +1,21 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGWQEmyai104Q/profile-displaybackgroundimage-shrink_350_1400/0/1713932319827?e=1719446400&v=beta&t=O89LWi6XPqpf9yIdyZfZLS8hW4IPak1ZWxhp_xdAYXE)
-<h1 align="center">Hi 👋, I'm Abdul Rehan</h1>
-<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">Website Developer | AI Learner | Student at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
+<hr>
+<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 <h3 align="left">My Portfolio:</h3>
 <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-3881f5" href="https://mr-creations-portfolio.netlify.app/" target="_blank" >
-<br>
 
-• 🔭 I’m currently working on projects related to TypeScript.<br> <br>
-• 🌱 I’m currently learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> <br>
-• 💼 I'm part of The Governor Sindh Initiative for AI, Web3, and Metaverse,<br> where we aim to bring innovation and advancement in these domains. <br> <br>
-• 👨‍💻 All of my projects are available at <br> <br>
-• 💬 Ask me about Website Development, AI , WEB 3 <br> <br>
-• 📫 How to reach me?  <br>mail at *abdulrehan0317@gmail.com* <br> <be>
+• 🔭 I’m currently working on projects related to TypeScript.<br> 
+• 🌱 I’m currently learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> 
+• 💼 I'm part of The Governor Sindh Initiative for AI, Web3, and Metaverse,<br> where we aim to bring innovation and advancement in these domains. <br> 
+• 👨‍💻 All of my projects are available at <br> 
+• 💬 Ask me about Website Development, AI, WEB 3 <br> 
+• 📫 How to reach me?  <br>mail at *abdulrehan0317@gmail.com* <br> 
 
+<hr>
 
 <h3 align="left" > Connect with me on 🤝: </h3>
 
