@@ -6,7 +6,7 @@
 
 
 <h3 align="left">My Portfolio:</h3>
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-3881f5" href="https://mr-creations-portfolio.netlify.app/" target="_blank" >
+<a href="https://mr-creations-portfolio.netlify.app/" target="_blank" >Take a Look Now</a> <br><br>
 
 • 🔭 I’m currently working on projects related to TypeScript.<br> 
 • 🌱 Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> 
