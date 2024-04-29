@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGWQEmyai104Q/profile-displaybackgroundimage-shrink_350_1400/0/1713932319827?e=1719446400&v=beta&t=O89LWi6XPqpf9yIdyZfZLS8hW4IPak1ZWxhp_xdAYXE)
+![MasterHead](https://cdn.dribbble.com/userupload/14319659/file/original-63a8f96991b2eb616441848e7037317b.gif)
 <h3 align="center">Website Developer | AI Learner | Student at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
 <hr>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
