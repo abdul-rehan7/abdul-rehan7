@@ -30,8 +30,8 @@
 </div>
 
 </p>
-<div align="center">
-    <a href="#"><img alt="Abdul RehanTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmirza76&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+<div align="left">
+    <a href="#"><img alt="Abdul RehanTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanmirza76&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="150px" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
