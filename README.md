@@ -10,7 +10,7 @@
 
 • 🔭 I’m currently working on projects related to TypeScript.<br> 
 • 🌱 Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> 
-• 💼 Part of The Governor Sindh Initiative for AI, Web3, and Metaverse,<br> where we aim to bring innovation and advancement in these domains. <br> 
+• 💼 Part of The Governor Sindh Initiative for AI, Web3, and Metaverse, where we aim to bring innovation and advancement in these domains. <br> 
 • 💬 Ask me about Website Development, AI, WEB 3 <br> 
 • 📫 How to reach me?  <br>mail at *abdulrehan0317@gmail.com* <be> 
 
