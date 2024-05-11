@@ -5,7 +5,6 @@
 <head>
  
 <meta name="google-site-verification" content="OwNPoadkq0mIvtPEy91GQhXDSzbuZCbcH1yJxV9430w" />
-</head>
 
 <h3 align="left">My Portfolio:</h3>
 <a href="https://abdul-rehan-portfolio.vercel.app/" target="_blank" >Take a Look Now</a> <br><br>
