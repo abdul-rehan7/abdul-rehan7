@@ -2,8 +2,10 @@
 <h3 align="center">Website Developer | AI Learner | Student at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
 <hr>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<head>
+ 
 <meta name="google-site-verification" content="OwNPoadkq0mIvtPEy91GQhXDSzbuZCbcH1yJxV9430w" />
+</head>
 
 <h3 align="left">My Portfolio:</h3>
 <a href="https://abdul-rehan-portfolio.vercel.app/" target="_blank" >Take a Look Now</a> <br><br>
