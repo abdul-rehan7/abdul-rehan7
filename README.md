@@ -6,7 +6,7 @@
  
 <meta name="google-site-verification" content="OwNPoadkq0mIvtPEy91GQhXDSzbuZCbcH1yJxV9430w" />
 
-<h3 align="left">My Portfolio:</h3>
+<h3 align="left">My Portfolio: </h3>
 <a href="https://abdul-rehan-portfolio.vercel.app/" target="_blank" >Take a Look Now</a> <br><br>
 
 • 🔭 I’m currently working on projects related to TypeScript.<br> 
@@ -33,7 +33,7 @@
 </p>
 <div align="center">
 <a href="#">
-<img alt="Abdul RehanTop Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehan7&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=f0f0f0&icon_color=F0DB4F" height="150px" /></a>
+<img alt="Abdul Rehan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rehan7&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=f0f0f0&icon_color=F0DB4F" height="150px" /></a>
 </div>
 <hr>
 <h3 align="center">Languages and Tools</h3>
