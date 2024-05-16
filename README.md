@@ -25,7 +25,7 @@
     <a href="mailto:abdulrehan0317@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=Gmail" alt="Abdul Rehan - Gmail"></a>
     <a href="https://twitter.com/mirza_rehan76/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter" alt="Abdul Rehan - Twitter"></a>
     <a href="https://www.linkedin.com/in/abdul-rehan-4b8686243/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=3881f5" alt="Abdul Rehan -Linkedin"></a>
-    <a href="https://www.instagram.com/mr_creations76/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram" alt="Abdul Rehan - Instagram"></a>
+    <a href="https://www.instagram.com/abdul.rehan76/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram" alt="Abdul Rehan - Instagram"></a>
     <a href="https://www.fiverr.com/mirza_rehan7" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr" alt="Abdul Rehan-fiverr"></a>
 
 </div>
