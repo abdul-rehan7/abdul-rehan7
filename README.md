@@ -41,7 +41,7 @@
 <p align="center">  
  <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,tailwind,bootstrap,react,netlify,vercel" /></a></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,tailwind,bootstrap,react,next,netlify,vercel" /></a></p>
 
  </p>
 <p>
