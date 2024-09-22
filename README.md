@@ -9,7 +9,7 @@
 <meta name="google-site-verification" content="OwNPoadkq0mIvtPEy91GQhXDSzbuZCbcH1yJxV9430w" />
 
 <h3 align="left">My Portfolio: </h3>
-<a href="https://abdulrehan.vercel.app/" target="_blank" >Take a Look Now 🔍</a> <br><br>
+<a href="https://abdulrehan.vercel.app/" target="_blank" >Take a Look Now 🔍.</a> <br><br>
 
 • 🔭 I’m currently working on projects related to TypeScript and Next JS.<br> <br> 
 • 🌱 Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> <br> 
