@@ -31,7 +31,6 @@
     <a href="https://www.fiverr.com/mirza_rehan7" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr" alt="Abdul Rehan-fiverr"></a>
 
 </div>
-
 </p>
 <div align="center">
 <a href="#">
