@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Lead Website Developer | AI Learner | SENIOR at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
+<h3 align="center">Frontend Website Developer | AI Learner | Student Leader at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
 <hr>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <head>
