@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Frontend Website Developer | AI Learner | Student Leader at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
+<h3 align="center">JAM Stack Developer | NEXT JS | Sanity CMS | Student Leader at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
 <hr>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <head>
@@ -10,11 +10,11 @@
 <h3 align="left">My Portfolio: </h3>
 <a href="https://abdulrehan.vercel.app/" target="_blank" >Take a Look Now 🔍.</a> <br><br>
 
-• 🔭 I’m currently working on projects related to TypeScript and Next JS. <br> <br> 
-• 🌱 Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> <br> 
-• 💼 Part of The Governor Sindh Initiative for AI, Web3, and Metaverse, where we aim to bring innovation and advancement in these domains. <br> <br> 
-• 💬 Ask me about Website Development, AI, WEB 3 <br> <br> 
-• 📫 How to reach me?  <br> <br>Mail at: abdulrehan0317@gmail.com <br>  LinkedIn : https://www.linkedin.com/in/abdul-rehan/ <br><br> 
+• Currently working on projects related to TypeScript and Next JS. <br> <br> 
+• Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> <br> 
+• Part of The Governor Sindh Initiative for AI, Web3, and Metaverse, where we aim to bring innovation and advancement in these domains. <br> <br> 
+• Ask me about Website Development, AI, WEB 3 <br> <br> 
+• How to reach me?  <br> <br>Mail at: abdulrehan0317@gmail.com <br>  LinkedIn : https://www.linkedin.com/in/abdul-rehan/ <br><br> 
 
 <br>
 <hr>
