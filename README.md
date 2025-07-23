@@ -1,13 +1,14 @@
 
+<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Abdul Rehan</h1>
+<h3 align="center">Full-Stack Developer | NEXT JS | Vue JS | Sanity CMS </h3>
 
-<h3 align="center">JAM Stack Developer | NEXT JS | Sanity CMS | Student Leader at Governer Sindh Initiative for AI, Web3, and Metaverse (GIAIC)</h3>
-<hr>
+<h2>My Portfolio: </h2>
+<h3 align="center"></h3>
+
 <img  align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <head>
  
 <meta name="google-site-verification" content="OwNPoadkq0mIvtPEy91GQhXDSzbuZCbcH1yJxV9430w" />
-
-<h3 align="left">My Portfolio: </h3>
 <a href="https://www.abdulrehan.me/" target="_blank" >Take a Look Now 🔍</a><br><br>
 
 • Currently working on projects related to TypeScript and Next JS <br> <br> 
