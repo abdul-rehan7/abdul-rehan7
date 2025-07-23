@@ -10,11 +10,13 @@
 <meta name="google-site-verification" content="OwNPoadkq0mIvtPEy91GQhXDSzbuZCbcH1yJxV9430w" />
 <a href="https://www.abdulrehan.me/" target="_blank" >Take a Look Now 🔍</a><br><br>
 
-• Currently working on projects related to TypeScript and Next JS <br> <br> 
-• Learning more about AI technologies, Web3 development, and building immersive experiences in the Metaverse.<br> <br> 
-• Part of The Governor Sindh Initiative for AI, Web3, and Metaverse, where we aim to bring innovation and advancement in these domains. <br> <br> 
-• Ask me about Website Development, AI, WEB 3 <br> <br> 
-• How to reach me?  <br> <br>Mail at: abdulrehan0317@gmail.com <br>  LinkedIn : https://www.linkedin.com/in/abdul-rehan/ <br><br> 
+I have experience delivering frontend and full-stack solutions using **Next JS**, **Node.js**, and **Sanity CMS**, with a focus on speed, functionality, and code quality.
+
+- 🛠 Tech Stack: Next.js, React, TypeScript, Node.js, Sanity, TailwindCSS, ShadCN UI  
+- 🌍 Available for freelance and remote opportunities  
+- 📬 Contact: [abdulrehan0317@gmail.com](mailto:abdulrehan0317@gmail.com)
+
+ >"Delivering clean, scalable, and modern web solutions."
 
 <br>
 <hr>
